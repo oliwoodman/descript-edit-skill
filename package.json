@@ -1,0 +1,10 @@
+{
+  "name": "descript-edit-skill",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A Claude Code skill that edits a talking-head video in Descript through the browser",
+  "dependencies": {
+    "playwright": "1.58.2"
+  }
+}
